@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shengyao Zhuang"
 title_separator          : "-"
 name                     : &name "Shengyao Zhuang"
-description              : &description "PhD student at University of Queensland"
+description              : &description "Postdoctoral researcher at CSIRO"
 url                      : https://arvinzhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arvinzhuang/arvinzhuang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shengyao Zhuang"
   avatar           : "Shengyao_zhuang.jpg"
-  bio              : "PhD student at ielab, University of Queensland"
+  bio              : "Postdoctoral researcher at CSIRO"
   location         : "Brisbane"
   employer         :
   pubmed           : 
