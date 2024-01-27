@@ -11,6 +11,10 @@ redirect_from:
 
 Work experience
 ======
+* The University of Queensland
+  * Adjunct Lecturer 
+  * Dec 2023 - Current
+    
 * CSIRO, Australian e-Health Research Centre, Brisbane
   * Postdoctoral Research Fellow
   * Search and Natural Language Process for Precision Medicine.
