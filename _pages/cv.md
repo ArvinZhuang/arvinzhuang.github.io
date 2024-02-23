@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf](https://github.com/ArvinZhuang/arvinzhuang.github.io/blob/master/files/Shengyao%20Zhuang%20resume.pdf)
+
 Work experience
 ======
 * The University of Queensland
