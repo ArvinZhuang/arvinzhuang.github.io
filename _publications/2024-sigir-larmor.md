@@ -3,7 +3,7 @@ title: "Leveraging LLMs for Unsupervised Dense Retriever Ranking"
 collection: publications
 permalink: /publication/sigir2024larmor
 year: 2024
-venue: 'Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR’24)'
+venue: 'Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24)'
 authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong>, Mahsa Baktashmotlagh, and Guido Zuccon
 track: Full paper
 ---
