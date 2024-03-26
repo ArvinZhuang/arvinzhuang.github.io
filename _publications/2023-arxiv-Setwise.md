@@ -1,9 +1,9 @@
 ---
 title: "A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models"
 collection: publications
-permalink: /publication/arxiv2023Setwise
-year: 2023
-venue: 'Arxiv Preprint'
+permalink: /publication/sigir2024Setwise
+year: 2024
+venue: 'Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24)'
 authors: <strong>Shengyao Zhuang</strong>, Honglei Zhuang, Bevan Koopman and Guido Zuccon.
 track: Full paper
 ---
