@@ -15,4 +15,4 @@ To tackle this, our method capitalizes on LLMs to create pseudo-relevant queries
 
 [Download paper here](https://arxiv.org/pdf/2402.04853.pdf)
 
-[Code (available soon)](https://github.com/ielab/larmor)
+[Code](https://github.com/ielab/larmor)
