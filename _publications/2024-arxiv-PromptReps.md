@@ -30,7 +30,7 @@ datasets illustrates that this simple promptbased LLM retrieval method can achie
 similar or higher retrieval effectiveness than
 state-of-the-art LLM embedding methods that
 are trained with large amounts of unsupervised
-data, especially when using a larger LLM.1
+data, especially when using a larger LLM.
 
 [Download paper here](https://arxiv.org/pdf/2404.18424)
 
