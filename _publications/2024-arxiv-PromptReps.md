@@ -5,7 +5,7 @@ permalink: /publication/arxiv2024PromptReps
 year: 2024
 venue: 'Arxiv Preprint'
 authors: <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bevan Koopman, Jimmy Lin, and Guido Zuccon.
-track: Long paper
+track: Full paper
 ---
 ---
 
