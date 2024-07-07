@@ -70,7 +70,7 @@ Teaching
   
 Service
 ======
-* PC member: SIGIR-AP2023, GenIR2023, ReNeuIR2023, SIGIR2023, SIGIR2022, SIGIR2021, ADCS2021, ADCS2022, TheWebConf2023, TOIS, ACM Computing Surveys
+* PC member: SIGIR 2021 2022 2023 2024, SIGIR-AP 2023, TheWebConf 2023 2024, ECIR 2024, CIKM 2024, GenIR 2023, ReNeuIR 2023 2024, ADCS 2021 2022, TOIS, ACM Computing Surveys
 * Publicity Chair of [CIKM2021](http://www.cikm2021.org/committee)
 
 
