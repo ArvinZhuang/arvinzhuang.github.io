@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ICTIR2023SPLADE
 year: 2023
 venue: 'Proceedings of the 2023 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’23)'
-authors: Joel Mackenziem, <strong>Shengyao Zhuang</strong>, Guido Zuccon
+authors: Joel Mackenziem, <strong>Shengyao Zhuang</strong> (equal contribution), Guido Zuccon
 track: Short paper
 ---
 ---
