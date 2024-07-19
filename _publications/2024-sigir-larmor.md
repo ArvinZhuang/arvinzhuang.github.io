@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sigir2024larmor
 year: 2024
 venue: 'Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’24)'
-authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong>, Mahsa Baktashmotlagh, and Guido Zuccon (<i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i>)
+authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong> (equal contribution), Mahsa Baktashmotlagh, and Guido Zuccon (<i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i>)
 track: Full paper
 ---
 ---
