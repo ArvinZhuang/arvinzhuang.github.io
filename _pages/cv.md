@@ -46,7 +46,7 @@ Awards
   * Reduce, Reuse, Recycle: Green Information Retrieval Research
 * [ADCS 2022](http://adcs-conference.org/2022/index.html) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Award </i> ]
   * Robustness of Neural Rankers to Typos: A Comparative Study
-* [SIGIR 2024](https://sigir-2024.github.io/program_papers.html) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i> ]
+* [SIGIR 2024](https://sigir-2024.github.io/best_papers.html) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i> ]
   * Leveraging LLMs for Unsupervised Dense Retriever Ranking
 
 Education
