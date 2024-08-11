@@ -35,7 +35,7 @@ Work experience
   
 Awards
 ======
-* [ICTIR 2021]() [ <i class="fa fa-trophy" aria-hidden="true"> Best Student Paper Award </i> ]
+* [ICTIR 2021](https://sigir.org/sigir2021/awards/) [ <i class="fa fa-trophy" aria-hidden="true"> Best Student Paper Award </i> ]
   * Effective and Privacy-preserving Federated Online Learning to Rank
 * [SIGIR 2021 Top10 authors (unofficial)](https://groups.cs.umass.edu/zamani/2021/04/29/sigir-2021-stats/) [ Rank #3 ]
   * Based on normalized full paper count.
