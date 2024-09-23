@@ -3,7 +3,7 @@ title: "PromptReps: Prompting Large Language Models to Generate Dense and Sparse
 collection: publications
 permalink: /publication/emnlp2024PromptReps
 year: 2024
-venue: 'Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24)'
+venue: 'Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP2024)'
 authors: <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bevan Koopman, Jimmy Lin, and Guido Zuccon.
 track: Full paper
 ---
