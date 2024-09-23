@@ -1,9 +1,9 @@
 ---
 title: "PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval"
 collection: publications
-permalink: /publication/arxiv2024PromptReps
+permalink: /publication/emnlp2024PromptReps
 year: 2024
-venue: 'Arxiv Preprint'
+venue: 'Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing'
 authors: <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bevan Koopman, Jimmy Lin, and Guido Zuccon.
 track: Full paper
 ---
