@@ -3,7 +3,7 @@ title: "Understanding and Mitigating the Threat of Vec2Text to Dense Retrieval S
 collection: publications
 permalink: /publication/arxiv2024vec2text
 year: 2024
-venue: 'Arxiv Preprint'
+venue: 'Proceedings of the 2st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP ’24), 2024'
 authors: <strong>Shengyao Zhuang</strong>, Bevan Koopman, Xiaoran Chu, and Guido Zuccon.
 track: Full paper
 ---
