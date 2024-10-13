@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../_sass/_page.scss">---
+---
 layout: default
 ---
 
@@ -39,7 +39,7 @@ layout: default
         {% elsif page.venue and page.year and page.authors and page.track %}
           <p>{{ page.authors}}</p>
           <p>
-            <i>{{ page.venue }}</i>, {{ page.year}}.
+            Published in <i>{{ page.venue }}</i>, {{ page.year}}.
             {% if page.track == 'Full paper' %}
               <span class="long">{{page.track}}</span>
             {% elsif page.track == 'Short paper' %}

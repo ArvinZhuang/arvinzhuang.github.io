@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <P>{{post.authors}}</p>
           <p>
-            <i>{{ post.venue }}</i>, {{ post.year}}.
+            Published in <i>{{ post.venue }}</i>, {{ post.year}}.
             {% if post.track == 'Full paper' %}
               <span class="long">{{post.track}}</span>
             {% elsif post.track == 'Short paper' %}
