@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/arxiv2024starbucks
 year: 2024
 venue: 'Arxiv'
-authors: <strong>Shengyao Zhuang</strong>, Shuai Wang, Bevan Koopman and Guido Zuccon.
+authors: <strong>Shengyao Zhuang</strong>, Shuai Wang, Bevan Koopman, and Guido Zuccon.
 track: Full paper
 ---
 ---
