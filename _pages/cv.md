@@ -51,7 +51,7 @@ Awards
 
 Education
 ======
-* Ph.D. Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
+* Ph.D. Candidate in Computer Science, The University of Queensland, Australia, 2019 - 2023.
   * Thesis topic: Teaching Pre-trained Language Models to Rank Effectively, Efficiently and Robustly
 * Master of Information Technology, The University of Queensland, Australia, 2017 - 2018.
   * GPA: 6.3/7 
