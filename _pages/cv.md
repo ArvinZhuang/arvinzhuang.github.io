@@ -13,6 +13,10 @@ redirect_from:
 
 Work experience
 ======
+* Amazon, AGI
+  * Applied Scientist
+  * May 2025 - Current
+    
 * The University of Queensland
   * Adjunct Lecturer 
   * Dec 2023 - Current
@@ -21,7 +25,7 @@ Work experience
   * Postdoctoral Research Fellow
   * Search and Natural Language Process for Precision Medicine.
   * Project website: [http://health-search.csiro.au/oscar/](http://health-search.csiro.au/oscar/)
-  * Mar 2023 – Current
+  * Mar 2023 – May 2025
     
 * Microsoft, Beijing, STCA group
   * Research Intern
@@ -72,7 +76,7 @@ Teaching
   
 Service
 ======
-* PC member: SIGIR 2021 2022 2023 2024, SIGIR-AP 2023, TheWebConf 2023 2024, ECIR 2024, CIKM 2024, GenIR 2023, ReNeuIR 2023 2024, ADCS 2021 2022, TOIS, ACM Computing Surveys
+* PC member: SIGIR 2021 2022 2023 2024 2025, SIGIR-AP 2023, TheWebConf 2023 2024 2025, ECIR 2024, CIKM 2024, GenIR 2023, ReNeuIR 2023 2024, ADCS 2021 2022, TOIS, ACM Computing Surveys
 * Publicity Chair of [CIKM2021](http://www.cikm2021.org/committee)
 
 
