@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at [CSIRO, Australian e-Health Research Centre](https://aehrc.csiro.au/), where I focus on developing large language model-based search engine systems in the medical domain. Before joining CSIRO, I was a Ph.D. student at the [ielab](http://ielab.io/), EECS, The University of Queensland, Australia, supervised by Professor [Guido Zuccon](http://ielab.io/people/guido-zuccon). My primary research interests lie in information retrieval, large language model-based neural rankers, and NLP in general.
+I am an Applied Scientist at Amazon’s AGI group, specializing in advancing web search technologies that power Amazon’s product ecosystem. My research focuses on information retrieval, large language model–based neural rankers, and natural language processing. Previously, I was a Postdoctoral Researcher at CSIRO’s Australian e-Health Research Centre, where I developed LLM-driven search systems for the medical domain. I earned my Ph.D. in Computer Science from the University of Queensland’s ielab, under the supervision of Professor Guido Zuccon.
 <hr>
 
 {% include base_path %}
