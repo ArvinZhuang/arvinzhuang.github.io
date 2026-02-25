@@ -27,6 +27,36 @@ SCHOLAR_ID = "-7sbXNIAAAAJ"
 AUTHOR_NAME = "Shengyao Zhuang"
 DEFAULT_DELAY = 5  # seconds between Scholar requests
 
+VENUE_ABBREVIATION_MAP = [
+    ("SIGIR-AP", "SIGIR-AP"),
+    ("SIGIR Forum", "SIGIR Forum"),
+    ("SIGIR", "SIGIR"),
+    ("EMNLP", "EMNLP"),
+    ("Association for Computational Linguistics", "ACL"),
+    ("ACL", "ACL"),
+    ("NAACL", "NAACL"),
+    ("ICTIR", "ICTIR"),
+    ("WSDM", "WSDM"),
+    ("CIKM", "CIKM"),
+    ("WWW", "WWW"),
+    ("KDD", "KDD"),
+    ("ICLR", "ICLR"),
+    ("NeurIPS", "NeurIPS"),
+    ("ICML", "ICML"),
+    ("AAAI", "AAAI"),
+    ("IJCAI", "IJCAI"),
+    ("TOIS", "TOIS"),
+    ("Transactions on Information Systems", "TOIS"),
+    ("Information Retrieval Journal", "IRJ"),
+    ("International Journal on Digital Libraries", "IJDL"),
+    ("ADCS", "ADCS"),
+    ("COLING", "COLING"),
+    ("EACL", "EACL"),
+    ("ECIR", "ECIR"),
+    ("TREC", "TREC"),
+    ("arXiv", "arXiv"),
+]
+
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -38,6 +68,16 @@ def normalize_title(title: str) -> str:
     title = title.translate(str.maketrans("", "", string.punctuation))
     title = " ".join(title.split())
     return title
+
+
+def abbreviate_venue(venue: str) -> str:
+    """Map a Scholar venue string to a short abbreviation."""
+    if not venue:
+        return "arXiv"
+    for substring, abbrev in VENUE_ABBREVIATION_MAP:
+        if substring.lower() in venue.lower():
+            return abbrev
+    return venue
 
 
 def format_authors(authors_str: str, highlight_name: str = AUTHOR_NAME) -> str:
@@ -160,11 +200,13 @@ def fetch_scholar_publications(
             year = 0
 
         url = pub.get("pub_url", "") or pub.get("eprint_url", "") or ""
+        venue = bib.get("venue", "") or bib.get("journal", "") or bib.get("conference", "") or ""
 
         publications.append({
             "title": title,
             "authors_raw": authors_raw,
             "year": year,
+            "venue_raw": venue,
             "url": url,
         })
 
@@ -244,11 +286,13 @@ def main():
             continue
 
         authors = format_authors(pub["authors_raw"])
+        venue = abbreviate_venue(pub.get("venue_raw", ""))
 
         entry = {
             "title": pub["title"],
             "authors": authors,
             "year": pub["year"],
+            "venue": venue,
         }
         if pub["url"]:
             entry["url"] = pub["url"]

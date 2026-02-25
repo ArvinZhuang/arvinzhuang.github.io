@@ -92,6 +92,9 @@ Publications
       {%- else -%}
         {{ pub.title }}
       {%- endif -%}
+      {%- if pub.venue != "" -%}
+        <em> {{ pub.venue }}</em>
+      {%- endif -%}
       {%- if pub.authors != "" -%}
         <br /><small>{{ pub.authors }}</small>
       {%- endif -%}
