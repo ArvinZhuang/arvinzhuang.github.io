@@ -9,12 +9,13 @@
   authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2025
   url: https://arxiv.org/abs/2411.17299
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: An investigation of prompt variations for zero-shot llm-based rankers
   authors: Shuoqi Sun, <strong>Shengyao Zhuang</strong>, Shuai Wang, Guido Zuccon
   year: 2025
   url: https://link.springer.com/chapter/10.1007/978-3-031-88711-6_12
-  venue: arXiv
+  venue: European Conference on Information Retrieval
 - title: 'Browsecomp-plus: A more fair and transparent evaluation benchmark of deep-research
     agent'
   authors: Zijian Chen*, Xueguang Ma*, <strong>Shengyao Zhuang</strong>*, Ping Nie,
@@ -30,18 +31,19 @@
     Zhuang</strong>, G. Zuccon, Martin Potthast, Matthias Hagen
   year: 2025
   url: https://doi.org/10.1007/978-3-031-88708-6_29
-  venue: arXiv
+  venue: European Conference on Information Retrieval
 - title: 'Distillation versus contrastive learning: How to train your rerankers'
   authors: Zhichao Xu, Zhiqi Huang, <strong>Shengyao Zhuang</strong>, Vivek Srikumar
   year: 2025
   url: https://arxiv.org/abs/2507.08336
-  venue: arXiv
+  venue: European Conference on Information Retrieval
 - title: Document screenshot retrievers are vulnerable to pixel poisoning attacks
   authors: <strong>Shengyao Zhuang</strong>, Ekaterina Khramtsova, Xueguang Ma, B.
     Koopman, Jimmy Lin, G. Zuccon
   year: 2025
   url: https://arxiv.org/abs/2501.16902
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'LLM-VPRF: Large Language Model Based Vector Pseudo Relevance Feedback'
   authors: Hang Li, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2025
@@ -63,14 +65,15 @@
   authors: G. Zuccon, <strong>Shengyao Zhuang</strong>, Xueguang Ma
   year: 2025
   url: https://doi.org/10.1145/3726302.3731689
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'Rank-distillm: Closing the effectiveness gap between cross-encoders and
     llms for passage re-ranking'
   authors: Ferdinand Schlatt, Maik Fröbe, Harrisen Scells, <strong>Shengyao Zhuang</strong>,
     Bevan Koopman, Guido Zuccon, Benno Stein, Martin Potthast, Matthias Hagen
   year: 2025
   url: https://link.springer.com/chapter/10.1007/978-3-031-88714-7_31
-  venue: arXiv
+  venue: European Conference on Information Retrieval
 - title: 'Rank-r1: Enhancing reasoning in llm-based document rerankers via reinforcement
     learning'
   authors: <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bevan Koopman, Jimmy Lin,
@@ -94,13 +97,13 @@
     Zobel, Guido Zuccon
   year: 2025
   url: https://doi.org/10.1145/3769733.3769739
-  venue: arXiv
+  venue: SIGIR Forum
 - title: 'Resllm: Large language models are strong resource selectors for federated
     search'
   authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2025
   url: https://arxiv.org/abs/2401.17645
-  venue: arXiv
+  venue: The Web Conference
 - title: Rethinking On-policy Optimization for Query Augmentation
   authors: Zhichao Xu, <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bingsen Chen,
     Yijun Tian, Fengran Mo, Jie Cao, Vivek Srikumar
@@ -111,46 +114,48 @@
   authors: G. Zuccon, <strong>Shengyao Zhuang</strong>, Xueguang Ma, B. Koopman
   year: 2025
   url: https://doi.org/10.1145/3767695.3769522
-  venue: arXiv
+  venue: SIGIR-AP
 - title: 'Set-encoder: Permutation-invariant inter-passage attention for listwise
     passage re-ranking with cross-encoders'
   authors: Ferdinand Schlatt, Maik Frobe, Harrisen Scells, <strong>Shengyao Zhuang</strong>,
     B. Koopman, G. Zuccon, Benno Stein, Martin Potthast, Matthias Hagen
   year: 2025
   url: https://arxiv.org/abs/2404.06912
-  venue: arXiv
+  venue: European Conference on Information Retrieval
 - title: 'Tevatron 2.0: Unified document retrieval toolkit across scale, language,
     and modality'
   authors: Xueguang Ma, Luyu Gao, <strong>Shengyao Zhuang</strong>, J. Zhan, Jamie
     Callan, Jimmy Lin
   year: 2025
   url: https://arxiv.org/abs/2505.02466
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: The impact of auxiliary patient data on automated chest x-ray report generation
     and how to incorporate it
   authors: Aaron Nicolson, <strong>Shengyao Zhuang</strong>, Jason Dowling, Bevan
     Koopman
   year: 2025
   url: https://arxiv.org/abs/2406.13181
-  venue: arXiv
+  venue: Annual Meeting of the Association for Computational Linguistics
 - title: 'Visa: Retrieval augmented generation with visual source attribution'
   authors: Xueguang Ma, <strong>Shengyao Zhuang</strong>, Bevan Koopman, Guido Zuccon,
     Wenhu Chen, Jimmy Lin
   year: 2025
   url: https://aclanthology.org/2025.acl-long.1456/
-  venue: ACL
+  venue: Annual Meeting of the Association for Computational Linguistics
 - title: 'AgAsk: an agent to help answer farmer’s questions from scientific documents'
   authors: B. Koopman, Ahmed Mourad, Hang Li, A. Vegt, <strong>Shengyao Zhuang</strong>,
     Simon Gibson, Y. Dang, David Lawrence, G. Zuccon
   year: 2024
   url: https://arxiv.org/abs/2212.10762
-  venue: arXiv
+  venue: International Journal on Digital Libraries
 - title: Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening
     Prioritisation
   authors: Xinyu Mao, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2024
   url: https://arxiv.org/abs/2407.00635
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: Does Vec2Text Pose a New Corpus Poisoning Threat?
   authors: <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2024
@@ -162,44 +167,49 @@
     Mahsa Baktashmotlagh, G. Zuccon
   year: 2024
   url: https://arxiv.org/abs/2407.06685
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented
     Generation'
   authors: Shuai Wang, Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong>, Guido
     Zuccon
   year: 2024
   url: https://dl.acm.org/doi/abs/10.1145/3626772.3657853
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'Large Language Models for Stemming: Promises, Pitfalls and Failures'
   authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, and Guido Zuccon.
   year: 2024
   url: https://arxiv.org/pdf/2402.11757.pdf
-  venue: SIGIR
+  venue: arXiv
 - title: 'Large language models based stemming for information retrieval: Promises,
     pitfalls and failures'
   authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, G. Zuccon
   year: 2024
   url: https://doi.org/10.1145/3626772.3657949
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: Leveraging LLMs for Unsupervised Dense Retriever Ranking
   authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong> (equal contribution),
     Mahsa Baktashmotlagh, and Guido Zuccon (<i class="fa fa-trophy" aria-hidden="true">
     Best Paper Honorable Mention Award </i>)
   year: 2024
   url: https://arxiv.org/pdf/2402.04853.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'PromptReps: Prompting Large Language Models to Generate Dense and Sparse
     Representations for Zero-Shot Document Retrieval'
   authors: <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bevan Koopman, Jimmy Lin,
     and Guido Zuccon.
   year: 2024
   url: https://arxiv.org/pdf/2404.18424
-  venue: EMNLP
+  venue: Conference on Empirical Methods in Natural Language Processing
 - title: Revisiting Document Expansion and Filtering for Effective First-Stage Retrieval
   authors: Watheq Mansour, <strong>Shengyao Zhuang</strong>, G. Zuccon, Joel Mackenzie
   year: 2024
   url: https://doi.org/10.1145/3626772.3657850
-  venue: arXiv
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'Starbucks-v2: Improved Training for 2D Matryoshka Embeddings'
   authors: <strong>Shengyao Zhuang</strong>, Shuai Wang, B. Koopman, G. Zuccon
   year: 2024
@@ -216,7 +226,7 @@
   authors: <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2024
   url: https://arxiv.org/abs/2401.01566
-  venue: arXiv
+  venue: Text Retrieval Conference
 - title: Understanding and Mitigating the Threat of Vec2Text to Dense Retrieval Systems
   authors: <strong>Shengyao Zhuang</strong>, Bevan Koopman, Xiaoran Chu, and Guido
     Zuccon.
@@ -229,45 +239,47 @@
     Bevan Koopman, Guido Zuccon
   year: 2024
   url: https://link.springer.com/chapter/10.1007/978-3-031-56027-9_25
-  venue: arXiv
+  venue: European Conference on Information Retrieval
 - title: A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with
     Large Language Models
   authors: <strong>Shengyao Zhuang</strong>, Honglei Zhuang, Bevan Koopman and Guido
     Zuccon.
   year: 2023
   url: https://arxiv.org/pdf/2310.09497.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: Augmenting Passage Representations with Query Generation for Enhanced Cross-Lingual
     Dense Retrieval
   authors: <strong>Shengyao Zhuang</strong>, Linjun Shou, Guido Zuccon
   year: 2023
   url: https://arxiv.org/pdf/2305.03950.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information
     Retrieval Models'
   authors: Guido Zuccon, Harrisen Scells, <strong>Shengyao Zhuang</strong>
   year: 2023
   url: https://arxiv.org/pdf/2306.16668.pdf
-  venue: SIGIR
+  venue: International Conference on the Theory of Information Retrieval
 - title: Bridging the Gap Between Indexing and Retrieval for Differentiable Search
     Index with Query Generation
   authors: <strong>Shengyao Zhuang</strong>, Houxing Ren, Linjun Shou, Jian Pei, Ming
     Gong, Guido Zuccon and Daxin Jiang.
   year: 2023
   url: https://arxiv.org/pdf/2206.10128.pdf
-  venue: SIGIR
+  venue: arXiv
 - title: Exploring the Representation Power of SPLADE Models
   authors: Joel Mackenziem, <strong>Shengyao Zhuang</strong> (equal contribution),
     Guido Zuccon
   year: 2023
   url: https://arxiv.org/pdf/2306.16680.pdf
-  venue: SIGIR
+  venue: International Conference on the Theory of Information Retrieval
 - title: Open-source Large Language Models are Strong Zero-shot Query Likelihood Models
     for Document Ranking
   authors: <strong>Shengyao Zhuang</strong>, Bing Liu, Bevan Koopman and Guido Zuccon.
   year: 2023
   url: https://arxiv.org/pdf/2310.13243.pdf
-  venue: EMNLP
+  venue: Conference on Empirical Methods in Natural Language Processing
 - title: Selecting which Dense Retriever to use for Zero-Shot Search
   authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong>, Mahsa Baktashmotlagh,
     Xi Wang and Guido Zuccon.
@@ -279,7 +291,7 @@
   authors: <strong>Shengyao Zhuang</strong>.
   year: 2023
   url: https://espace.library.uq.edu.au/view/UQ:db0a1b9
-  venue: PhD Thesis
+  venue: The University of Queensland (PhD Thesis)
 - title: Typos-aware Bottlenecked Pre-Training for Robust Dense Retrieval
   authors: <strong>Shengyao Zhuang</strong>, Linjun Shou, Jian Pei, Ming Gong, Houxing
     Ren, Guido Zuccon and Daxin Jiang.
@@ -291,83 +303,88 @@
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2022
   url: https://arxiv.org/pdf/2202.12510.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: CharacterBERT and Self-Teaching for Improving the Robustness of Dense Retrievers
     on Queries with Typos
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2022
   url: https://arxiv.org/pdf/2204.00716.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'Implicit Feedback for Dense Passage Retrieval: A Counterfactual Approach'
   authors: <strong>Shengyao Zhuang</strong>, Hang Li and Guido Zuccon
   year: 2022
   url: https://arxiv.org/pdf/2204.00718.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: 'Improving Query Representations for Dense Retrieval with Pseudo Relevance
     Feedback: A Reproducibility Study'
   authors: Hang Li, <strong>Shengyao Zhuang</strong>, Ahmed Mourad, Xueguang Ma, Jimmy
     Lin, Guido Zuccon
   year: 2022
   url: https://arxiv.org/pdf/2112.06400.pdf
-  venue: ECIR
+  venue: European Conference on Information Retrieval
 - title: 'Pseudo Relevance Feedback with Deep Language Models and Dense Retrievers:
     Successes and Pitfalls'
   authors: Hang Li, Ahmed Mourad, <strong>Shengyao Zhuang</strong>, Bevan Koopman,
     Guido Zuccon
   year: 2022
   url: https://arxiv.org/pdf/2108.11044.pdf
-  venue: TOIS
+  venue: ACM Trans. Inf. Syst.
 - title: Pseudo-Relevance Feedback with Dense Retrievers in Pyserini
   authors: Hang Li, <strong>Shengyao Zhuang</strong>, Xueguang Ma, Jimmy Lin, Guido
     Zuccon
   year: 2022
   url: http://ielab.io/publications/pdfs/li2022adcs-vprf-demo.pdf
-  venue: ADCS
+  venue: Australasian Document Computing Symposium
 - title: 'Reduce, Reuse, Recycle: Green Information Retrieval Research'
   authors: Harry Scells, <strong>Shengyao Zhuang</strong>, Guido Zuccon (<i class="fa
     fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i>)
   year: 2022
   url: http://ielab.io/publications/pdfs/scells2022greenir.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: Reinforcement Online Learning to Rank with Unbiased Reward Shaping
   authors: <strong>Shengyao Zhuang</strong>, Zhihao Qiao, Guido Zuccon
   year: 2022
   url: https://arxiv.org/pdf/2201.01534.pdf
-  venue: IRJ
+  venue: Information Retrieval Journal
 - title: 'Robustness of Neural Rankers to Typos: A Comparative Study'
   authors: <strong>Shengyao Zhuang</strong>, Xinyu Mao, Guido Zuccon (<i class="fa
     fa-trophy" aria-hidden="true"> Best Paper Award </i>)
   year: 2022
   url: https://ielab.io/publications/adcs2022-typos/adcs2022-comparative-study.pdf
-  venue: ADCS
+  venue: Australasian Document Computing Symposium
 - title: 'To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers'
   authors: Hang Li, Shuai Wang, <strong>Shengyao Zhuang</strong>, Ahmed Mourad, Xueguang
     Ma, Jimmy Lin, Guido Zuccon
   year: 2022
   url: https://arxiv.org/pdf/2205.00235.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: BERT-based Dense Retrievers Require Interpolation with BM25 for Effective
     Passage Retrieval
   authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2021
   url: http://arvinzhuang.github.io/files/shuai2021interpolateDR.pdf
-  venue: SIGIR
+  venue: International Conference on the Theory of Information Retrieval
 - title: Dealing with Typos for BERT-based Passage Retrieval and Ranking
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2021
   url: https://arxiv.org/pdf/2108.12139.pdf
-  venue: EMNLP
+  venue: Conference on Empirical Methods in Natural Language Processing
 - title: Deep Query Likelihood Model for Information Retrieval
   authors: <strong>Shengyao Zhuang</strong>, Hang Li, Guido Zuccon
   year: 2021
   url: http://arvinzhuang.github.io/files/arvin_hang2021DQLM.pdf
-  venue: ECIR
+  venue: European Conference on Information Retrieval
 - title: Effective and Privacy-preserving Federated Online Learning to Rank
   authors: Shuyi Wang, Bing Liu, <strong>Shengyao Zhuang</strong>, Guido Zuccon (<i
     class="fa fa-trophy" aria-hidden="true"> Best Student Paper Award </i>)
   year: 2021
   url: http://arvinzhuang.github.io/files/wang2021fpdgd.pdf
-  venue: SIGIR
+  venue: International Conference on the Theory of Information Retrieval
 - title: Fast Passage Re-ranking with Contextualized Exact Term Matching and Efficient
     Passage Expansion
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
@@ -379,29 +396,31 @@
   authors: Shuyi Wang, <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2021
   url: http://arvinzhuang.github.io/files/wang2021foltr-reproducibility.pdf
-  venue: ECIR
+  venue: European Conference on Information Retrieval
 - title: How do Online Learning to Rank Methods Adapt to Changes of Intent?
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2021
   url: http://arvinzhuang.github.io/files/arvin2021intentchange.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: IELAB at TREC Deep Learning Track 2021
   authors: <strong>Shengyao Zhuang</strong>, Hang Li, Guido Zuccon
   year: 2021
-  venue: arXiv
+  venue: Text Retrieval Conference
 - title: 'TILDE: Term Independent Likelihood moDEl for Passage Re-ranking'
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2021
   url: http://arvinzhuang.github.io/files/arvin2021tilde.pdf
-  venue: SIGIR
+  venue: Annual International ACM SIGIR Conference on Research and Development in
+    Information Retrieval
 - title: Counterfactual Online Learning to Rank
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
   year: 2020
   url: http://arvinzhuang.github.io/files/arvin2020counterfactual.pdf
-  venue: ECIR
+  venue: European Conference on Information Retrieval
 - title: IELAB for TREC Conversational Assistance Track (CAsT) 2020
   authors: Sebastian Cross, Hang Li, <strong>Shengyao Zhuang</strong>, Ahmed Mourad,
     Guido Zuccon, Bevan Koopman
   year: 2020
   url: https://trec.nist.gov/pubs/trec29/papers/ielab.C.pdf
-  venue: arXiv
+  venue: Text Retrieval Conference

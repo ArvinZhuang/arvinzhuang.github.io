@@ -24,7 +24,7 @@ I am an Applied Scientist at Amazon’s AGI group, specializing in advancing web
         {{ pub.title }}
       {%- endif -%}
       {%- if pub.venue != "" -%}
-        <em> {{ pub.venue }}</em>
+        <br /><small>{{ pub.venue }}</small>
       {%- endif -%}
       {%- if pub.authors != "" -%}
         <br /><small>{{ pub.authors }}</small>

@@ -286,7 +286,7 @@ def main():
             continue
 
         authors = format_authors(pub["authors_raw"])
-        venue = abbreviate_venue(pub.get("venue_raw", ""))
+        venue = pub.get("venue_raw", "") or "arXiv"
 
         entry = {
             "title": pub["title"],

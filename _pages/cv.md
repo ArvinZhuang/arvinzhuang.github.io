@@ -93,7 +93,7 @@ Publications
         {{ pub.title }}
       {%- endif -%}
       {%- if pub.venue != "" -%}
-        <em> {{ pub.venue }}</em>
+        <br /><small>{{ pub.venue }}</small>
       {%- endif -%}
       {%- if pub.authors != "" -%}
         <br /><small>{{ pub.authors }}</small>
