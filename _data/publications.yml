@@ -1,10 +1,13 @@
 - title: 'LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase
     Training Curriculum'
-  authors: ''
+  authors: Zhichao Xu, <strong>Shengyao Zhuang</strong>, Crystina Zhang, Xueguang
+    Ma, Yijun Tian, Maitrey Mehta, Jimmy Lin, Vivek Srikumar
   year: 2026
+  url: https://arxiv.org/abs/2601.01684
 - title: 2d matryoshka training for information retrieval
-  authors: ''
+  authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2025
+  url: https://arxiv.org/abs/2411.17299
 - title: An investigation of prompt variations for zero-shot llm-based rankers
   authors: Shuoqi Sun, <strong>Shengyao Zhuang</strong>, Shuai Wang, Guido Zuccon
   year: 2025
@@ -19,26 +22,37 @@
   url: https://arxiv.org/abs/2508.06600
 - title: 'Corpus subsampling: Estimating the effectiveness of neural retrieval models
     on large corpora'
-  authors: ''
+  authors: Maik Fröbe, Andrew Parry, Harrisen Scells, Shuai Wang, <strong>Shengyao
+    Zhuang</strong>, G. Zuccon, Martin Potthast, Matthias Hagen
   year: 2025
+  url: https://doi.org/10.1007/978-3-031-88708-6_29
 - title: 'Distillation versus contrastive learning: How to train your rerankers'
-  authors: ''
+  authors: Zhichao Xu, Zhiqi Huang, <strong>Shengyao Zhuang</strong>, Vivek Srikumar
   year: 2025
+  url: https://arxiv.org/abs/2507.08336
 - title: Document screenshot retrievers are vulnerable to pixel poisoning attacks
-  authors: ''
+  authors: <strong>Shengyao Zhuang</strong>, Ekaterina Khramtsova, Xueguang Ma, B.
+    Koopman, Jimmy Lin, G. Zuccon
   year: 2025
+  url: https://arxiv.org/abs/2501.16902
 - title: 'LLM-VPRF: Large Language Model Based Vector Pseudo Relevance Feedback'
-  authors: ''
+  authors: Hang Li, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2025
+  url: https://arxiv.org/abs/2504.01448
 - title: Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models
-  authors: ''
+  authors: Jieran Li, Xiuyuan Hu, Yang Zhao, <strong>Shengyao Zhuang</strong>, Hao
+    Zhang
   year: 2025
+  url: https://arxiv.org/abs/2506.11452
 - title: 'MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed'
-  authors: ''
+  authors: J. Zhan, Crystina Zhang, <strong>Shengyao Zhuang</strong>, Xueguang Ma,
+    Jimmy Lin
   year: 2025
+  url: https://arxiv.org/abs/2506.09409
 - title: 'R2LLMs: Retrieval and Ranking with LLMs'
-  authors: ''
+  authors: G. Zuccon, <strong>Shengyao Zhuang</strong>, Xueguang Ma
   year: 2025
+  url: https://doi.org/10.1145/3726302.3731689
 - title: 'Rank-distillm: Closing the effectiveness gap between cross-encoders and
     llms for passage re-ranking'
   authors: Ferdinand Schlatt, Maik Fröbe, Harrisen Scells, <strong>Shengyao Zhuang</strong>,
@@ -53,49 +67,77 @@
   url: https://arxiv.org/abs/2503.06034
 - title: Report from the 4th Strategic Workshop on Information Retrieval in Lorne
     (SWIRL 2025)
-  authors: ''
+  authors: Johanne R Trippas, J. Culpepper, Mohammad Aliannejadi, James Allan, Enrique
+    Amigó, Jaime Arguello, Leif Azzopardi, P. Bailey, Jamie Callan, Rob Capra, Nick
+    Craswell, Bruce Croft, Jeff Dalton, Gianluca Demartini, Laura Dietz, Zhicheng
+    Dou, C. Eickhoff, Michael Ekstrand, Nicola Ferro, Norbert Fuhr, Dorota Glowacka,
+    Faegheh Hasibi, Danula Hettiachchi, Rosie Jones, J. Kamps, Noriko Kando, Sarvnaz
+    Karimi, Makoto P. Kato, B. Koopman, Yiqun Liu, Chenglong Ma, Joel Mackenzie, Maria
+    Maistro, Jiaxin Mao, Dana McKay, Bhaskar Mitra, Stefano Mizzaro, Alistair Moffat,
+    Josiane Mothe, I. Ounis, Lida Rashidi, Yongli Ren, Mark Sanderson, Rodrygo L.
+    T. Santos, Falk Scholer, Chirag A Shah, Laurianne Sitbon, Ian Soboroff, Damiano
+    Spina, Paul Thomas, Julián Urbano, Arjen P. de Vries, Ryen W. White, Abby Yuan,
+    Hamed Zamani, Oleg Zendel, Min Zhang, <strong>Shengyao Zhuang</strong>, Justin
+    Zobel, Guido Zuccon
   year: 2025
+  url: https://doi.org/10.1145/3769733.3769739
 - title: 'Resllm: Large language models are strong resource selectors for federated
     search'
-  authors: ''
+  authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2025
+  url: https://arxiv.org/abs/2401.17645
 - title: Rethinking On-policy Optimization for Query Augmentation
-  authors: ''
+  authors: Zhichao Xu, <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bingsen Chen,
+    Yijun Tian, Fengran Mo, Jie Cao, Vivek Srikumar
   year: 2025
+  url: https://arxiv.org/abs/2510.17139
 - title: SIGIR-AP 2025 Tutorial on Retrieval and Ranking with LLMs (R2LLMs)
-  authors: ''
+  authors: G. Zuccon, <strong>Shengyao Zhuang</strong>, Xueguang Ma, B. Koopman
   year: 2025
+  url: https://doi.org/10.1145/3767695.3769522
 - title: 'Set-encoder: Permutation-invariant inter-passage attention for listwise
     passage re-ranking with cross-encoders'
-  authors: ''
+  authors: Ferdinand Schlatt, Maik Frobe, Harrisen Scells, <strong>Shengyao Zhuang</strong>,
+    B. Koopman, G. Zuccon, Benno Stein, Martin Potthast, Matthias Hagen
   year: 2025
+  url: https://arxiv.org/abs/2404.06912
 - title: 'Tevatron 2.0: Unified document retrieval toolkit across scale, language,
     and modality'
-  authors: ''
+  authors: Xueguang Ma, Luyu Gao, <strong>Shengyao Zhuang</strong>, J. Zhan, Jamie
+    Callan, Jimmy Lin
   year: 2025
+  url: https://arxiv.org/abs/2505.02466
 - title: The impact of auxiliary patient data on automated chest x-ray report generation
     and how to incorporate it
-  authors: ''
+  authors: Aaron Nicolson, <strong>Shengyao Zhuang</strong>, Jason Dowling, Bevan
+    Koopman
   year: 2025
+  url: https://arxiv.org/abs/2406.13181
 - title: 'Visa: Retrieval augmented generation with visual source attribution'
   authors: Xueguang Ma, <strong>Shengyao Zhuang</strong>, Bevan Koopman, Guido Zuccon,
     Wenhu Chen, Jimmy Lin
   year: 2025
   url: https://aclanthology.org/2025.acl-long.1456/
 - title: 'AgAsk: an agent to help answer farmer’s questions from scientific documents'
-  authors: ''
+  authors: B. Koopman, Ahmed Mourad, Hang Li, A. Vegt, <strong>Shengyao Zhuang</strong>,
+    Simon Gibson, Y. Dang, David Lawrence, G. Zuccon
   year: 2024
+  url: https://arxiv.org/abs/2212.10762
 - title: Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening
     Prioritisation
-  authors: ''
+  authors: Xinyu Mao, <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2024
+  url: https://arxiv.org/abs/2407.00635
 - title: Does Vec2Text Pose a New Corpus Poisoning Threat?
-  authors: ''
+  authors: <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2024
+  url: https://arxiv.org/abs/2410.06628
 - title: 'Embark on DenseQuest: A System for Selecting the Best Dense Retriever for
     a Custom Collection'
-  authors: ''
+  authors: Ekaterina Khramtsova, Teerapong Leelanupab, <strong>Shengyao Zhuang</strong>,
+    Mahsa Baktashmotlagh, G. Zuccon
   year: 2024
+  url: https://arxiv.org/abs/2407.06685
 - title: 'FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented
     Generation'
   authors: Shuai Wang, Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong>, Guido
@@ -108,8 +150,9 @@
   url: https://arxiv.org/pdf/2402.11757.pdf
 - title: 'Large language models based stemming for information retrieval: Promises,
     pitfalls and failures'
-  authors: ''
+  authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, G. Zuccon
   year: 2024
+  url: https://doi.org/10.1145/3626772.3657949
 - title: Leveraging LLMs for Unsupervised Dense Retriever Ranking
   authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong> (equal contribution),
     Mahsa Baktashmotlagh, and Guido Zuccon (<i class="fa fa-trophy" aria-hidden="true">
@@ -123,11 +166,13 @@
   year: 2024
   url: https://arxiv.org/pdf/2404.18424
 - title: Revisiting Document Expansion and Filtering for Effective First-Stage Retrieval
-  authors: ''
+  authors: Watheq Mansour, <strong>Shengyao Zhuang</strong>, G. Zuccon, Joel Mackenzie
   year: 2024
+  url: https://doi.org/10.1145/3626772.3657850
 - title: 'Starbucks-v2: Improved Training for 2D Matryoshka Embeddings'
-  authors: ''
+  authors: <strong>Shengyao Zhuang</strong>, Shuai Wang, B. Koopman, G. Zuccon
   year: 2024
+  url: https://arxiv.org/abs/2410.13230
 - title: 'Starbucks: Improved Training for 2D Matryoshka Embeddings'
   authors: <strong>Shengyao Zhuang</strong>, Shuai Wang, Bevan Koopman, and Guido
     Zuccon.
@@ -135,8 +180,9 @@
   url: https://arxiv.org/abs/2410.13230
 - title: 'Team ielab at trec clinical trial track 2023: Enhancing clinical trial retrieval
     with neural rankers and large language models'
-  authors: ''
+  authors: <strong>Shengyao Zhuang</strong>, B. Koopman, G. Zuccon
   year: 2024
+  url: https://arxiv.org/abs/2401.01566
 - title: Understanding and Mitigating the Threat of Vec2Text to Dense Retrieval Systems
   authors: <strong>Shengyao Zhuang</strong>, Bevan Koopman, Xiaoran Chu, and Guido
     Zuccon.
@@ -278,7 +324,7 @@
   year: 2021
   url: http://arvinzhuang.github.io/files/arvin2021intentchange.pdf
 - title: IELAB at TREC Deep Learning Track 2021
-  authors: ''
+  authors: <strong>Shengyao Zhuang</strong>, Hang Li, Guido Zuccon
   year: 2021
 - title: 'TILDE: Term Independent Likelihood moDEl for Passage Re-ranking'
   authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
@@ -289,5 +335,7 @@
   year: 2020
   url: http://arvinzhuang.github.io/files/arvin2020counterfactual.pdf
 - title: IELAB for TREC Conversational Assistance Track (CAsT) 2020
-  authors: ''
+  authors: Sebastian Cross, Hang Li, <strong>Shengyao Zhuang</strong>, Ahmed Mourad,
+    Guido Zuccon, Bevan Koopman
   year: 2020
+  url: https://trec.nist.gov/pubs/trec29/papers/ielab.C.pdf
