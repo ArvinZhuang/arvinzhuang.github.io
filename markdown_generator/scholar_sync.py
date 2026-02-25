@@ -7,6 +7,8 @@ Usage:
     python markdown_generator/scholar_sync.py --use-proxy --delay 10
 """
 
+from __future__ import annotations
+
 import argparse
 import os
 import re
@@ -15,6 +17,7 @@ import time
 import unicodedata
 import yaml
 from pathlib import Path
+from typing import Optional
 
 from scholarly import scholarly, ProxyGenerator
 
@@ -31,9 +34,11 @@ DEFAULT_DELAY = 5  # seconds between Scholar requests
 # in filenames and permalinks.  Order matters – first match wins.
 VENUE_ABBREVIATION_MAP = [
     ("SIGIR-AP", "SIGIRAP"),
+    ("SIGIR Forum", "SIGIR"),
     ("SIGIR", "SIGIR"),
     ("ECIR", "ECIR"),
     ("EMNLP", "EMNLP"),
+    ("Association for Computational Linguistics", "ACL"),
     ("ACL", "ACL"),
     ("NAACL", "NAACL"),
     ("ICTIR", "ICTIR"),
@@ -47,11 +52,15 @@ VENUE_ABBREVIATION_MAP = [
     ("AAAI", "AAAI"),
     ("IJCAI", "IJCAI"),
     ("TOIS", "TOIS"),
+    ("Transactions on Information Systems", "TOIS"),
     ("Information Retrieval Journal", "IRJ"),
+    ("International Journal on Digital Libraries", "IJDL"),
     ("ADCS", "ADCS"),
     ("COLING", "COLING"),
     ("EACL", "EACL"),
     ("TREC", "TREC"),
+    ("Natural Language Processing", "NLP"),
+    ("arXiv", "arxiv"),
 ]
 
 # Words to skip when building a shortname from the title
@@ -112,16 +121,25 @@ def extract_venue_abbreviation(venue: str) -> str:
 def generate_shortname(title: str) -> str:
     """Generate a short identifier from the paper title.
 
-    Prefers an explicit acronym if one appears in the title (e.g. "TILDE:"),
-    otherwise takes the first 2-3 significant words in PascalCase.
+    Prefers an explicit name before a colon (e.g. "TILDE: ...", "Rank-r1: ..."),
+    then looks for all-caps acronyms, then falls back to PascalCase words.
     """
-    # Look for an acronym pattern: all-caps word of 2+ chars, possibly with
-    # digits, optionally followed by a colon/dash
+    # 1. Look for "Name:" pattern at the start — catches "TILDE:", "Rank-r1:",
+    #    "FeB4RAG:", "Visa:", "R2LLMs:", etc.
+    colon_match = re.match(r"^([A-Za-z0-9][\w-]{0,15}):\s", title)
+    if colon_match:
+        name = colon_match.group(1)
+        # Clean up: remove trailing lowercase 's' from plurals like "R2LLMs"
+        # and strip hyphens/underscores for use in filenames
+        name = re.sub(r"s$", "", name) if re.search(r"[A-Z]s$", name) else name
+        return name.replace("_", "")
+
+    # 2. Look for an all-caps acronym (2+ uppercase chars, possibly with digits)
     acronym = re.search(r"\b([A-Z][A-Z0-9]{1,}(?:-[A-Z0-9]+)*)\b", title)
     if acronym:
         return acronym.group(1)
 
-    # Fallback: PascalCase first significant words
+    # 3. Fallback: PascalCase first 2-3 significant words
     words = [w for w in re.findall(r"[A-Za-z]+", title) if w.lower() not in STOPWORDS]
     if not words:
         words = re.findall(r"[A-Za-z]+", title)
@@ -357,6 +375,9 @@ def main():
     if args.verbose:
         print(f"Fetched {len(pubs)} publications from Scholar")
 
+    # Collect existing filenames to avoid collisions
+    existing_filenames = {f.name for f in pub_dir.glob("*.md")}
+
     # Step 3: Filter and generate
     new_count = 0
     for pub in pubs:
@@ -387,6 +408,16 @@ def main():
         }
 
         filename = make_filename(pub["year"], venue_abbrev, shortname)
+        # Avoid filename collisions
+        if filename in existing_filenames:
+            for suffix in range(2, 100):
+                candidate = make_filename(pub["year"], venue_abbrev, f"{shortname}{suffix}")
+                if candidate not in existing_filenames:
+                    filename = candidate
+                    pub_data["shortname"] = f"{shortname}{suffix}"
+                    break
+
+        existing_filenames.add(filename)
         filepath = pub_dir / filename
         content = build_markdown(pub_data)
 
