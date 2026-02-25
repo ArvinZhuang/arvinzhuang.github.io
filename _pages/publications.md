@@ -9,13 +9,21 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
-{%- assign publications = site.publications | sort:"year" | reverse | group_by:"year" -%}
+{%- assign publications = site.data.publications | group_by:"year" -%}
 {% for year in publications %}
   <h2>{{ year.name }}</h2>
   <ul>
-  {%- for post in year.items -%}
-    {% include archive-single.html %}
+  {%- for pub in year.items -%}
+    <li>
+      {%- if pub.url -%}
+        <a href="{{ pub.url }}">{{ pub.title }}</a>
+      {%- else -%}
+        {{ pub.title }}
+      {%- endif -%}
+      {%- if pub.authors != "" -%}
+        <br /><small>{{ pub.authors }}</small>
+      {%- endif -%}
+    </li>
   {%- endfor -%}
- </ul>
+  </ul>
 {% endfor %}

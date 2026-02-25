@@ -83,16 +83,21 @@ Service
 Publications
 ======
 
-{%- assign publications = site.publications | sort:"year" | reverse | group_by:"year" -%}
+{%- assign publications = site.data.publications | group_by:"year" -%}
 {% for year in publications %}
-  {%- for post in year.items -%}
-    {% include archive-single.html %}
+  {%- for pub in year.items -%}
+    <li>
+      {%- if pub.url -%}
+        <a href="{{ pub.url }}">{{ pub.title }}</a>
+      {%- else -%}
+        {{ pub.title }}
+      {%- endif -%}
+      {%- if pub.authors != "" -%}
+        <br /><small>{{ pub.authors }}</small>
+      {%- endif -%}
+    </li>
   {%- endfor -%}
 {% endfor %}
-
-<!--   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 <!-- 
 Talks
