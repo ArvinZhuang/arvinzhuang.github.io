@@ -1,0 +1,293 @@
+- title: 'LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase
+    Training Curriculum'
+  authors: ''
+  year: 2026
+- title: 2d matryoshka training for information retrieval
+  authors: ''
+  year: 2025
+- title: An investigation of prompt variations for zero-shot llm-based rankers
+  authors: Shuoqi Sun, <strong>Shengyao Zhuang</strong>, Shuai Wang, Guido Zuccon
+  year: 2025
+  url: https://link.springer.com/chapter/10.1007/978-3-031-88711-6_12
+- title: 'Browsecomp-plus: A more fair and transparent evaluation benchmark of deep-research
+    agent'
+  authors: Zijian Chen*, Xueguang Ma*, <strong>Shengyao Zhuang</strong>*, Ping Nie,
+    Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel
+    Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina
+    Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin
+  year: 2025
+  url: https://arxiv.org/abs/2508.06600
+- title: 'Corpus subsampling: Estimating the effectiveness of neural retrieval models
+    on large corpora'
+  authors: ''
+  year: 2025
+- title: 'Distillation versus contrastive learning: How to train your rerankers'
+  authors: ''
+  year: 2025
+- title: Document screenshot retrievers are vulnerable to pixel poisoning attacks
+  authors: ''
+  year: 2025
+- title: 'LLM-VPRF: Large Language Model Based Vector Pseudo Relevance Feedback'
+  authors: ''
+  year: 2025
+- title: Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models
+  authors: ''
+  year: 2025
+- title: 'MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed'
+  authors: ''
+  year: 2025
+- title: 'R2LLMs: Retrieval and Ranking with LLMs'
+  authors: ''
+  year: 2025
+- title: 'Rank-distillm: Closing the effectiveness gap between cross-encoders and
+    llms for passage re-ranking'
+  authors: Ferdinand Schlatt, Maik Fröbe, Harrisen Scells, <strong>Shengyao Zhuang</strong>,
+    Bevan Koopman, Guido Zuccon, Benno Stein, Martin Potthast, Matthias Hagen
+  year: 2025
+  url: https://link.springer.com/chapter/10.1007/978-3-031-88714-7_31
+- title: 'Rank-r1: Enhancing reasoning in llm-based document rerankers via reinforcement
+    learning'
+  authors: <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bevan Koopman, Jimmy Lin,
+    Guido Zuccon
+  year: 2025
+  url: https://arxiv.org/abs/2503.06034
+- title: Report from the 4th Strategic Workshop on Information Retrieval in Lorne
+    (SWIRL 2025)
+  authors: ''
+  year: 2025
+- title: 'Resllm: Large language models are strong resource selectors for federated
+    search'
+  authors: ''
+  year: 2025
+- title: Rethinking On-policy Optimization for Query Augmentation
+  authors: ''
+  year: 2025
+- title: SIGIR-AP 2025 Tutorial on Retrieval and Ranking with LLMs (R2LLMs)
+  authors: ''
+  year: 2025
+- title: 'Set-encoder: Permutation-invariant inter-passage attention for listwise
+    passage re-ranking with cross-encoders'
+  authors: ''
+  year: 2025
+- title: 'Tevatron 2.0: Unified document retrieval toolkit across scale, language,
+    and modality'
+  authors: ''
+  year: 2025
+- title: The impact of auxiliary patient data on automated chest x-ray report generation
+    and how to incorporate it
+  authors: ''
+  year: 2025
+- title: 'Visa: Retrieval augmented generation with visual source attribution'
+  authors: Xueguang Ma, <strong>Shengyao Zhuang</strong>, Bevan Koopman, Guido Zuccon,
+    Wenhu Chen, Jimmy Lin
+  year: 2025
+  url: https://aclanthology.org/2025.acl-long.1456/
+- title: 'AgAsk: an agent to help answer farmer’s questions from scientific documents'
+  authors: ''
+  year: 2024
+- title: Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening
+    Prioritisation
+  authors: ''
+  year: 2024
+- title: Does Vec2Text Pose a New Corpus Poisoning Threat?
+  authors: ''
+  year: 2024
+- title: 'Embark on DenseQuest: A System for Selecting the Best Dense Retriever for
+    a Custom Collection'
+  authors: ''
+  year: 2024
+- title: 'FeB4RAG: Evaluating Federated Search in the Context of Retrieval Augmented
+    Generation'
+  authors: Shuai Wang, Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong>, Guido
+    Zuccon
+  year: 2024
+  url: https://dl.acm.org/doi/abs/10.1145/3626772.3657853
+- title: 'Large Language Models for Stemming: Promises, Pitfalls and Failures'
+  authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, and Guido Zuccon.
+  year: 2024
+  url: https://arxiv.org/pdf/2402.11757.pdf
+- title: 'Large language models based stemming for information retrieval: Promises,
+    pitfalls and failures'
+  authors: ''
+  year: 2024
+- title: Leveraging LLMs for Unsupervised Dense Retriever Ranking
+  authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong> (equal contribution),
+    Mahsa Baktashmotlagh, and Guido Zuccon (<i class="fa fa-trophy" aria-hidden="true">
+    Best Paper Honorable Mention Award </i>)
+  year: 2024
+  url: https://arxiv.org/pdf/2402.04853.pdf
+- title: 'PromptReps: Prompting Large Language Models to Generate Dense and Sparse
+    Representations for Zero-Shot Document Retrieval'
+  authors: <strong>Shengyao Zhuang</strong>, Xueguang Ma, Bevan Koopman, Jimmy Lin,
+    and Guido Zuccon.
+  year: 2024
+  url: https://arxiv.org/pdf/2404.18424
+- title: Revisiting Document Expansion and Filtering for Effective First-Stage Retrieval
+  authors: ''
+  year: 2024
+- title: 'Starbucks-v2: Improved Training for 2D Matryoshka Embeddings'
+  authors: ''
+  year: 2024
+- title: 'Starbucks: Improved Training for 2D Matryoshka Embeddings'
+  authors: <strong>Shengyao Zhuang</strong>, Shuai Wang, Bevan Koopman, and Guido
+    Zuccon.
+  year: 2024
+  url: https://arxiv.org/abs/2410.13230
+- title: 'Team ielab at trec clinical trial track 2023: Enhancing clinical trial retrieval
+    with neural rankers and large language models'
+  authors: ''
+  year: 2024
+- title: Understanding and Mitigating the Threat of Vec2Text to Dense Retrieval Systems
+  authors: <strong>Shengyao Zhuang</strong>, Bevan Koopman, Xiaoran Chu, and Guido
+    Zuccon.
+  year: 2024
+  url: https://arxiv.org/pdf/2402.12784.pdf
+- title: Zero-shot generative large language models for systematic review screening
+    automation
+  authors: Shuai Wang, Harrisen Scells, <strong>Shengyao Zhuang</strong>, Martin Potthast,
+    Bevan Koopman, Guido Zuccon
+  year: 2024
+  url: https://link.springer.com/chapter/10.1007/978-3-031-56027-9_25
+- title: A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with
+    Large Language Models
+  authors: <strong>Shengyao Zhuang</strong>, Honglei Zhuang, Bevan Koopman and Guido
+    Zuccon.
+  year: 2023
+  url: https://arxiv.org/pdf/2310.09497.pdf
+- title: Augmenting Passage Representations with Query Generation for Enhanced Cross-Lingual
+    Dense Retrieval
+  authors: <strong>Shengyao Zhuang</strong>, Linjun Shou, Guido Zuccon
+  year: 2023
+  url: https://arxiv.org/pdf/2305.03950.pdf
+- title: 'Beyond CO2 Emissions: The Overlooked Impact of Water Consumption of Information
+    Retrieval Models'
+  authors: Guido Zuccon, Harrisen Scells, <strong>Shengyao Zhuang</strong>
+  year: 2023
+  url: https://arxiv.org/pdf/2306.16668.pdf
+- title: Bridging the Gap Between Indexing and Retrieval for Differentiable Search
+    Index with Query Generation
+  authors: <strong>Shengyao Zhuang</strong>, Houxing Ren, Linjun Shou, Jian Pei, Ming
+    Gong, Guido Zuccon and Daxin Jiang.
+  year: 2023
+  url: https://arxiv.org/pdf/2206.10128.pdf
+- title: Exploring the Representation Power of SPLADE Models
+  authors: Joel Mackenziem, <strong>Shengyao Zhuang</strong> (equal contribution),
+    Guido Zuccon
+  year: 2023
+  url: https://arxiv.org/pdf/2306.16680.pdf
+- title: Open-source Large Language Models are Strong Zero-shot Query Likelihood Models
+    for Document Ranking
+  authors: <strong>Shengyao Zhuang</strong>, Bing Liu, Bevan Koopman and Guido Zuccon.
+  year: 2023
+  url: https://arxiv.org/pdf/2310.13243.pdf
+- title: Selecting which Dense Retriever to use for Zero-Shot Search
+  authors: Ekaterina Khramtsova, <strong>Shengyao Zhuang</strong>, Mahsa Baktashmotlagh,
+    Xi Wang and Guido Zuccon.
+  year: 2023
+  url: https://arxiv.org/pdf/2309.09403v1.pdf
+- title: Teaching Pre-Trained Language Models to Rank Effectively, Efficiently, and
+    Robustly
+  authors: <strong>Shengyao Zhuang</strong>.
+  year: 2023
+  url: https://espace.library.uq.edu.au/view/UQ:db0a1b9
+- title: Typos-aware Bottlenecked Pre-Training for Robust Dense Retrieval
+  authors: <strong>Shengyao Zhuang</strong>, Linjun Shou, Jian Pei, Ming Gong, Houxing
+    Ren, Guido Zuccon and Daxin Jiang.
+  year: 2023
+  url: https://arxiv.org/pdf/2304.08138.pdf
+- title: 'Asyncval: A Toolkit for Asynchronously Validating Dense Retriever Checkpoints
+    during Training'
+  authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2022
+  url: https://arxiv.org/pdf/2202.12510.pdf
+- title: CharacterBERT and Self-Teaching for Improving the Robustness of Dense Retrievers
+    on Queries with Typos
+  authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2022
+  url: https://arxiv.org/pdf/2204.00716.pdf
+- title: 'Implicit Feedback for Dense Passage Retrieval: A Counterfactual Approach'
+  authors: <strong>Shengyao Zhuang</strong>, Hang Li and Guido Zuccon
+  year: 2022
+  url: https://arxiv.org/pdf/2204.00718.pdf
+- title: 'Improving Query Representations for Dense Retrieval with Pseudo Relevance
+    Feedback: A Reproducibility Study'
+  authors: Hang Li, <strong>Shengyao Zhuang</strong>, Ahmed Mourad, Xueguang Ma, Jimmy
+    Lin, Guido Zuccon
+  year: 2022
+  url: https://arxiv.org/pdf/2112.06400.pdf
+- title: 'Pseudo Relevance Feedback with Deep Language Models and Dense Retrievers:
+    Successes and Pitfalls'
+  authors: Hang Li, Ahmed Mourad, <strong>Shengyao Zhuang</strong>, Bevan Koopman,
+    Guido Zuccon
+  year: 2022
+  url: https://arxiv.org/pdf/2108.11044.pdf
+- title: Pseudo-Relevance Feedback with Dense Retrievers in Pyserini
+  authors: Hang Li, <strong>Shengyao Zhuang</strong>, Xueguang Ma, Jimmy Lin, Guido
+    Zuccon
+  year: 2022
+  url: http://ielab.io/publications/pdfs/li2022adcs-vprf-demo.pdf
+- title: 'Reduce, Reuse, Recycle: Green Information Retrieval Research'
+  authors: Harry Scells, <strong>Shengyao Zhuang</strong>, Guido Zuccon (<i class="fa
+    fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i>)
+  year: 2022
+  url: http://ielab.io/publications/pdfs/scells2022greenir.pdf
+- title: Reinforcement Online Learning to Rank with Unbiased Reward Shaping
+  authors: <strong>Shengyao Zhuang</strong>, Zhihao Qiao, Guido Zuccon
+  year: 2022
+  url: https://arxiv.org/pdf/2201.01534.pdf
+- title: 'Robustness of Neural Rankers to Typos: A Comparative Study'
+  authors: <strong>Shengyao Zhuang</strong>, Xinyu Mao, Guido Zuccon (<i class="fa
+    fa-trophy" aria-hidden="true"> Best Paper Award </i>)
+  year: 2022
+  url: https://ielab.io/publications/adcs2022-typos/adcs2022-comparative-study.pdf
+- title: 'To Interpolate or not to Interpolate: PRF, Dense and Sparse Retrievers'
+  authors: Hang Li, Shuai Wang, <strong>Shengyao Zhuang</strong>, Ahmed Mourad, Xueguang
+    Ma, Jimmy Lin, Guido Zuccon
+  year: 2022
+  url: https://arxiv.org/pdf/2205.00235.pdf
+- title: BERT-based Dense Retrievers Require Interpolation with BM25 for Effective
+    Passage Retrieval
+  authors: Shuai Wang, <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2021
+  url: http://arvinzhuang.github.io/files/shuai2021interpolateDR.pdf
+- title: Dealing with Typos for BERT-based Passage Retrieval and Ranking
+  authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2021
+  url: https://arxiv.org/pdf/2108.12139.pdf
+- title: Deep Query Likelihood Model for Information Retrieval
+  authors: <strong>Shengyao Zhuang</strong>, Hang Li, Guido Zuccon
+  year: 2021
+  url: http://arvinzhuang.github.io/files/arvin_hang2021DQLM.pdf
+- title: Effective and Privacy-preserving Federated Online Learning to Rank
+  authors: Shuyi Wang, Bing Liu, <strong>Shengyao Zhuang</strong>, Guido Zuccon (<i
+    class="fa fa-trophy" aria-hidden="true"> Best Student Paper Award </i>)
+  year: 2021
+  url: http://arvinzhuang.github.io/files/wang2021fpdgd.pdf
+- title: Fast Passage Re-ranking with Contextualized Exact Term Matching and Efficient
+    Passage Expansion
+  authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2021
+  url: https://arxiv.org/pdf/2108.08513.pdf
+- title: 'Federated Online Learning to Rank with Evolution Strategies: A Reproducibility
+    Study'
+  authors: Shuyi Wang, <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2021
+  url: http://arvinzhuang.github.io/files/wang2021foltr-reproducibility.pdf
+- title: How do Online Learning to Rank Methods Adapt to Changes of Intent?
+  authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2021
+  url: http://arvinzhuang.github.io/files/arvin2021intentchange.pdf
+- title: IELAB at TREC Deep Learning Track 2021
+  authors: ''
+  year: 2021
+- title: 'TILDE: Term Independent Likelihood moDEl for Passage Re-ranking'
+  authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2021
+  url: http://arvinzhuang.github.io/files/arvin2021tilde.pdf
+- title: Counterfactual Online Learning to Rank
+  authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
+  year: 2020
+  url: http://arvinzhuang.github.io/files/arvin2020counterfactual.pdf
+- title: IELAB for TREC Conversational Assistance Track (CAsT) 2020
+  authors: ''
+  year: 2020
